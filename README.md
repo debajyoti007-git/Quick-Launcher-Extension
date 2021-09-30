@@ -1,2 +1,2 @@
 # Quick-Launcher-Extension
-This extension will quickly launch social media sites.
+This browser extension will quickly launch social media sites like YouTube, Facebook, Instagram, etc.
